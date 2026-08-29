@@ -1,0 +1,9 @@
+{
+  "name": "javascript-complete-learning",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Structured JavaScript learning notes from fundamentals to backend foundations.",
+  "scripts": {
+    "verify": "node scripts/verify-examples.js"
+  }
+}
